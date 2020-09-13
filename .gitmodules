@@ -1,0 +1,4 @@
+[submodule "web-static.ldjam.com"]
+	path = web-static.ldjam.com
+	url = ./web-static.ldjam.com.git
+	branch = master
